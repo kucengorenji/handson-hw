@@ -1,0 +1,15 @@
+.result {
+    text-align: center;
+}
+
+.data {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.data img {
+    margin: 10px;
+    width: 400px;
+}
